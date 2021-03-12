@@ -1,0 +1,4 @@
+#ignorar en repo
+LIBsEXC/
+*.xlsx
+*.csv

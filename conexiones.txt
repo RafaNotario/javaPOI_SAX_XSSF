@@ -1,0 +1,11 @@
+copnexiones db sky_rec
+C:\xampp\htdocs\sky_rec\logica\conexion.php
+C:\xampp\htdocs\sky_rec\logica\db.php
+C:\xampp\htdocs\sky_rec\logica\conexionimprimir.php
+
+C:\xampp\htdocs\sky_rec\aplicacion\logica\conexion.php
+C:\xampp\htdocs\sky_rec\aplicacion\logica\conexion2.php
+
+C:\xampp\htdocs\sky_rec\apk_sup\logica\conexion.php
+
+

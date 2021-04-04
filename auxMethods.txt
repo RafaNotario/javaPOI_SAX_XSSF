@@ -1,0 +1,19 @@
+                                        <a href="${pageContext.request.contextPath}/ServletControlador?accion=editar&idCliente=${cliente.id}"
+                                           class="btn btn-primary"><i class="fas fa-angle-double-right"></i>Modificar
+                                        </a>
+
+tbody > listadoclientes.jsp
+                              <c:forEach var="cliente" items="${clientes}">
+                                <tr>
+                                    <td>  ${cliente.id}</td>
+                                    <td> <a href="#"> ${cliente.numCuenta} </a></td>
+                                    <td>${cliente.ssolicitud_OT}</td>
+                                    <td>${cliente.nombre} </td>
+                                    <td>${cliente.status}</td>
+                                     <td>${cliente.saldo}</td>
+                                    <td>
+
+                                    </td>
+
+                                </tr>
+                            </c:forEach>
